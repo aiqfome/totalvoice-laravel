@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.1|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0",
-        "total-voice/php-client": "^1.15"
+        "total-voice/php-client": "^1.17"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.16",
