@@ -21,7 +21,7 @@
         "total-voice/php-client": "^1.17"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^2.16",
+        "friendsofphp/php-cs-fixer": "^3.9",
         "orchestra/testbench": "^3.8|^4.0|^5.0|^6.0|^7.0",
         "phpunit/phpunit": "^8.4|^9.0"
     },
